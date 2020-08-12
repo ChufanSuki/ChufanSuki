@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm **RetownPlato**
+
+- Sophomore @Chongqing University
+
+[![Retown Plato's Github stats](https://github-readme-stats.vercel.app/api?username=retownplato&hide_rank=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RetownPlato/RetownPlato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
