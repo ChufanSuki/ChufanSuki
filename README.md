@@ -4,7 +4,12 @@ I'm **RetownPlato**
 
 - Sophomore @Chongqing University
 
-[![Retown Plato's Github stats](https://github-readme-stats.vercel.app/api?username=retownplato&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/RetownPlato">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RetownPlato&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/RetownPlato">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetownPlato&layout=compact" />
+</a>
 
 <!--
 **RetownPlato/RetownPlato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retownplato)](https://github.com/anuraghazra/github-readme-stats)
+
