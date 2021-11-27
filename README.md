@@ -13,7 +13,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/retownplato" target="_blank">Talking about Personal Stuffs</a>
 <!-- recent_releases starts -->
 
-- 📫 How to reach me:plz contact me by [email](20183886@cqu.edu.cn)
+- 📫 How to reach me:plz contact me by [email](chufansuki@gmail.com)
 - 🏫 I'm an undergraduate in Chongqing University majoring in the computer science.
 - 👯 I'm now interested in System such as OS, Compiler and Database. 
 - 🏊‍♂️ Languages and Tools: 
