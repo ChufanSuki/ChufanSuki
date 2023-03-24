@@ -31,12 +31,12 @@
 </tr>
 <tr>
 <td>
-<p align="center"><a href="https://github.com/retownplato"><img src="https://github-readme-stats.vercel.app/api?username=retownplato&hide_border=true&show_icons=true" alt="Chufan Chen's github stats"></a></p>
+<p align="center"><a href="https://github.com/retownplato"><img src="https://github-readme-stats.vercel.app/api?username=chufansuki&hide_border=true&show_icons=true" alt="Chufan Chen's github stats"></a></p>
 
 </td>
 <td>
 <a href="https://github.com/retownplato">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retownplato&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chufansuki&layout=compact" />
 </a>
 </td>
 </tr>
