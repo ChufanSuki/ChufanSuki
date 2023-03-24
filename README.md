@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=retownplato&color=brightgreen&label=PROFILE+VIEWS)
 
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Chufan Chen, an undergraduate student in Chongqing University majoring in the Computer Science. 
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Chufan Chen, an graduate student in Zhejiang University. 
 <p></p>
 
 
@@ -13,9 +13,8 @@
 #### 🏋️‍♀️ <a href="https://github.com/retownplato" target="_blank">Talking about Personal Stuffs</a>
 <!-- recent_releases starts -->
 
-- 📫 How to reach me:plz contact me by [email](chufansuki@gmail.com)
-- 🏫 I'm an undergraduate in Chongqing University majoring in the computer science.
-- 👯 I'm now interested in System such as OS, Compiler and Database. 
+- 📫 How to reach me:plz contact me by [email](allenplato28@gmail.com)
+- 👯 I'm now interested in ML System such and Reinfrocement Learning. 
 - 🏊‍♂️ Languages and Tools: 
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
